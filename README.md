@@ -1,6 +1,6 @@
 ### Hoho
 
-Got some helpful chrome extensions and nodejs libs + lots of random old 💩.
+Got some helpful chrome extensions and nodejs libs + lots of random old 💩
 
 go > python > js > brainfuck > java > C > everything else > haskell
 
