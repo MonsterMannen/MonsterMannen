@@ -1,4 +1,6 @@
-### Hi there 👋
+# hoho
+
+Got some helpful chrome extensions and nodejs libs + lots of random old 💩.
 
 <!--
 **MonsterMannen/MonsterMannen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
