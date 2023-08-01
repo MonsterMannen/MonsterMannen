@@ -1,8 +1,12 @@
-# hoho
+### Hoho
 
 Got some helpful chrome extensions and nodejs libs + lots of random old 💩.
 
+go > python > js > brainfuck > java > C > everything else > haskell
+
 <!--
+wtf you can have comments in markdown :o
+
 **MonsterMannen/MonsterMannen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
