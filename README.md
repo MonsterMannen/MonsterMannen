@@ -1,8 +1,14 @@
 ### Hoho
 
-Got some helpful chrome extensions and nodejs libs + lots of random old 💩
+Making the world a better place... through scalable fault-tolerant distributable chrome extensions.
 
-go > python > js > brainfuck > java > C > everything else > haskell
+go > python > js > brainfuck > java > C > everything else > haskell  
+vim > emacs  
+spaces > tabs  
+vscode > atom  
+arch > gentoo  
+systemd > the alternatives  
+
 
 <!--
 wtf you can have comments in markdown :o
